@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# This is a very basic todolist created using React
+- Can create, edit and destroy multiple todo items.
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
